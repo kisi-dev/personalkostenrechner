@@ -17,7 +17,3 @@ Python 3 installieren und im Terminal ausführen:
 - Arbeitgeberanteil zur Sozialversicherung einrechnen
 - Mehrere Mitarbeiter nacheinander berechnen
 - Fehlerbehandlung bei ungültigen Eingaben
-
-## Hintergrund
-Mein erstes eigenes Python-Projekt während meines Python-Kurses (Coursera).
-Geschrieben von mir, mit Claude als Lernbegleiter für Erklärungen und Hinweise.
